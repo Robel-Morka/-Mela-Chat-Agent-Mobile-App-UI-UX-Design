@@ -1,6 +1,6 @@
 🤖 Mela Chat Agent – Mobile App UI/UX Design
 
-Mela Chat Agent is a modern mobile UI/UX design for an AI-powered conversational assistant, created in Figma. The design focuses on delivering a smooth, intuitive, and engaging chat experience that allows users to interact naturally with the system while completing tasks efficiently.
+Mela Chat Agent is a modern mobile UI/UX design for an AI-powered conversational assistant, created in Figma for both light and dark modes. The design focuses on delivering a smooth, intuitive, and engaging chat experience that allows users to interact naturally with the system while completing tasks efficiently.
 
 🚀 Overview
 
